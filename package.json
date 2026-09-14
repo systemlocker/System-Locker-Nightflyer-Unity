@@ -1,0 +1,26 @@
+{
+  "name": "com.systemlocker.nightflyer",
+  "displayName": "System Locker Nightflyer",
+  "version": "0.2.0",
+  "unity": "2022.3",
+  "unityRelease": "0f1",
+  "description": "Offline licensing and authorization for Unity games. Nightflyer proves possession of an installation P-256 key on every request and accepts only Ed25519-signed leases, statuses, and decisions from locally pinned keys.",
+  "author": {
+    "name": "System Locker",
+    "url": "https://systemlocker.net"
+  },
+  "documentationUrl": "https://github.com/systemlocker/System-Locker-Nightflyer-Unity#readme",
+  "keywords": [
+    "licensing",
+    "authentication",
+    "offline",
+    "games"
+  ],
+  "samples": [
+    {
+      "displayName": "Nightflyer Quickstart",
+      "description": "A minimal startup flow that gates a scene on an offline-capable Nightflyer lease.",
+      "path": "Samples~/NightflyerQuickstart"
+    }
+  ]
+}

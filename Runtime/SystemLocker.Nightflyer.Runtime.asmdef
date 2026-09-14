@@ -1,0 +1,14 @@
+{
+    "name": "SystemLocker.Nightflyer.Runtime",
+    "rootNamespace": "SystemLocker.Nightflyer",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
