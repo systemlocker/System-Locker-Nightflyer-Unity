@@ -192,7 +192,7 @@ namespace SystemLocker.Nightflyer
         public string SystemId { get; }
         public string BaseUrl { get; init; } = "https://systemlocker.net";
         public string ExpectedIssuer { get; init; } = "https://systemlocker.net";
-        public string SdkVersion { get; init; } = "0.2.0";
+        public string SdkVersion { get; init; } = "0.3.0";
         public TimeSpan RequestTimeout { get; init; } = TimeSpan.FromSeconds(15);
         public int IdempotentTransportRetries { get; init; } = 1;
         public TimeSpan InstallationLockTimeout { get; init; } = TimeSpan.FromSeconds(5);
